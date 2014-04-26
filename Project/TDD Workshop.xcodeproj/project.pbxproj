@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01F8DC17190BAE0F00D6EE04 /* SpeakersCollectionViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = B27A9C59E6E6435FEAA650A4 /* SpeakersCollectionViewLayout.m */; };
 		0835AE51E1D442A2BE7765FA /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E59A1BB742214388ABE91004 /* libPods.a */; };
 		1EDB80AF6BC4C379C818A5CF /* AgendaProviderSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EDB8361EBA8EEABB97963E4 /* AgendaProviderSpec.m */; };
 		1EDB85C9DAF2B5A908D93A10 /* AgendaCollectionViewDataSourceSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EDB861D7FD3F44E422AEECE /* AgendaCollectionViewDataSourceSpec.m */; };
@@ -63,11 +64,9 @@
 		81086E78FC205DB4277A4652 /* PollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 810864696868DEB6E3D638D9 /* PollView.m */; };
 		944AF0D51907124D00C36DA1 /* PhotoStreamViewControllerSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 510430351EDD2ECC10DB5F0C /* PhotoStreamViewControllerSpec.m */; };
 		B27A901654FE494E865AF180 /* AgendaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B27A9BB373E87A85573C3463 /* AgendaViewController.m */; };
-		B27A9056ADDB5BAB5972C05E /* SpeakersCollectionViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = B27A9C59E6E6435FEAA650A4 /* SpeakersCollectionViewLayout.m */; };
 		B27A90C1276516EF0976C721 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B27A98A82123128D7921D187 /* AppDelegate.m */; };
 		B27A9102589328414886245B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B27A9F1C86B830D77578705F /* Images.xcassets */; };
 		B27A925418322C40B77A8998 /* AgendaItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B27A9FB3501C500CA929A2A1 /* AgendaItem.m */; };
-		B27A928374737A6869A3182D /* SpeakersCollectionViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = B27A9C59E6E6435FEAA650A4 /* SpeakersCollectionViewLayout.m */; };
 		B27A92B6316A1E604BF9B98F /* SeparatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = B27A9A99558246AC21EABCD7 /* SeparatorView.m */; };
 		B27A93238C3DB4F0859DD791 /* AgendaViewControllerSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = B27A92D0682AFE21E11385A9 /* AgendaViewControllerSpec.m */; };
 		B27A937730478652E2F1969E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B27A9EA130AFF757F72BDC66 /* Main.storyboard */; };
@@ -798,6 +797,7 @@
 				510437B3AFF9B4DFB61D4D37 /* ConfigurationFactory.m in Sources */,
 				510431791B37A9A99385A641 /* CracowConfiguration.m in Sources */,
 				510434B6A43EA784E14ADCCE /* StreamItemUploader.m in Sources */,
+				01F8DC17190BAE0F00D6EE04 /* SpeakersCollectionViewLayout.m in Sources */,
 				51043C783E82165202F605B2 /* StreamItem.m in Sources */,
 				510431F36EDABCA7A7E84118 /* StreamItemCreator.m in Sources */,
 				5104365C827422284475A68C /* StreamItemDownloader.m in Sources */,
@@ -805,7 +805,6 @@
 				51043E931A99B1B2AAB437DB /* PhotoStreamCell.m in Sources */,
 				51043A111913B3C14E89500B /* ImageResizer.m in Sources */,
 				51043F48261F9EF558458820 /* StreamItemTransformer.m in Sources */,
-				B27A9056ADDB5BAB5972C05E /* SpeakersCollectionViewLayout.m in Sources */,
 				B27A92B6316A1E604BF9B98F /* SeparatorView.m in Sources */,
 				B27A9726136F5C773F598D6D /* SpeakerDetailsViewController.m in Sources */,
 				B27A901654FE494E865AF180 /* AgendaViewController.m in Sources */,
@@ -846,7 +845,6 @@
 				51043F3A4C4ADADDC1CD6C09 /* PhotoStreamCell.m in Sources */,
 				51043A58492558DF31617F02 /* ImageResizer.m in Sources */,
 				510436112789FCE1924B15B7 /* StreamItemTransformer.m in Sources */,
-				B27A928374737A6869A3182D /* SpeakersCollectionViewLayout.m in Sources */,
 				B27A95EBA9C44F296EEF0485 /* SeparatorView.m in Sources */,
 				B27A951712A1D5B5E0C81065 /* SpeakerDetailsViewController.m in Sources */,
 				B27A93238C3DB4F0859DD791 /* AgendaViewControllerSpec.m in Sources */,

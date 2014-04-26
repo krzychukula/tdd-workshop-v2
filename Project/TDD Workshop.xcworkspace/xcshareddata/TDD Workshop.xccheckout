@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>FF55F495-A5C0-4934-9F1D-48D3954D2235</string>
+	<string>DFC0F885-D2B7-4DD4-B4A6-B3D09C01D56A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>TDD Workshop</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D7F9B798-4A4B-4C6C-B5C8-5258F8C2C614</key>
-		<string>https://github.com/paweldudek/tdd-workshop-v2</string>
+		<key>00592D8D-5148-4001-AEEA-612D9740052A</key>
+		<string>ssh://github.com/krzychukula/tdd-workshop-v2.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Project/TDD Workshop.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D7F9B798-4A4B-4C6C-B5C8-5258F8C2C614</key>
+		<key>00592D8D-5148-4001-AEEA-612D9740052A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/paweldudek/tdd-workshop-v2</string>
+	<string>ssh://github.com/krzychukula/tdd-workshop-v2.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D7F9B798-4A4B-4C6C-B5C8-5258F8C2C614</string>
+	<string>00592D8D-5148-4001-AEEA-612D9740052A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D7F9B798-4A4B-4C6C-B5C8-5258F8C2C614</string>
+			<string>00592D8D-5148-4001-AEEA-612D9740052A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>tdd-workshop-v2</string>
 		</dict>
